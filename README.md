@@ -18,7 +18,7 @@ docker-compose up -d
 }
 ```
 
-4\. Tear down
+4\. Kill the Java Application and Tear down the docker network
 
 ```bash
 docker-compose down
